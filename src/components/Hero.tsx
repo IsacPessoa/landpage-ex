@@ -1,7 +1,7 @@
 import heroImage from "../assets/hero-clinic.jpg";
 
 const whatsappBaseUrl =
-  "https://wa.me/5592999999999?text=Ola%2C%20gostaria%20de%20agendar%20uma%20avaliacao.";
+  "https://wa.me/5500000000000?text=Ola%2C%20gostaria%20de%20agendar%20uma%20avaliacao.";
 
 function Hero() {
   return (

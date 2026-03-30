@@ -1,5 +1,5 @@
 const whatsappCtaUrl =
-  "https://wa.me/5592999999999?text=Ola%2C%20gostaria%20de%20mais%20informacoes%20sobre%20os%20tratamentos.";
+  "https://wa.me/5500000000000?text=Ola%2C%20gostaria%20de%20mais%20informacoes%20sobre%20os%20tratamentos.";
 
 function CTA() {
   return (
